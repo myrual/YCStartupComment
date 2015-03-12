@@ -18,3 +18,6 @@ lilin's comment for YC startup lession
 
 ##Lecture05 Growth
 1.  retention on hardware production http://genius.com/5031165   曾经某个苹果的人说过他眼中的好产品，就是那种用起来没啥特别的，没有了就特难受。 
+
+##Lecture06 build production user love
+1.  第一印象这么的重要，但是我却曾经把很丑陋的东西放在[knewone](http://knewone.com/groups/5157a3e67373c2ca5000001a/topics/530d992231302d303d3c0000)上给人讨论     http://genius.com/5031329    
