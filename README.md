@@ -10,3 +10,7 @@ lilin's comment for YC startup lession
 2.  No sticky, less viral http://genius.com/5026025
 3.  Impossible to create 13 project in short time http://genius.com/4934774
 4.  Get 10 user at version 0.1, 50 users at version0.2,  1000 users at release 1.0 http://genius.com/5028814
+
+##Lecture Do Things That Don't Scale
+1.  Is there any more successful story  http://genius.com/5030219
+    这个例子非常有趣，但是我认为对于硬件创业来说特别的关键。即使是一个真实的需求，如何确保产品能充分的满足需求，如何确保产品能持久的让用户满意？ 
