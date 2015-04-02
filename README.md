@@ -21,3 +21,6 @@ lilin's comment for YC startup lession
 ##Lecture 06 build production user love
 1.  第一印象这么的重要，但是我却曾经把很丑陋的东西放在[knewone](http://knewone.com/groups/5157a3e67373c2ca5000001a/topics/530d992231302d303d3c0000)上给人讨论其实当时应该找朋友们先看看  http://genius.com/5031329
 2.  客户反馈这么重要，可是硬件产品怎么做呢？  http://genius.com/5034670
+
+##和某个我很佩服的硬件产品经理的聊天记录
+[记录](https://github.com/myrual/YCStartupComment/blob/master/guoyang_talk.md)
